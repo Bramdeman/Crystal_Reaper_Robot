@@ -1,0 +1,4 @@
+# everything in this file will not be touched by Git
+Backup/
+Bluetooth/
+ESP32/
