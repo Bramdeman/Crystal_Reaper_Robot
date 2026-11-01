@@ -44,10 +44,10 @@ Below are two pictures of my finished prototype. As you can see it has quite a w
 <table>
     <tr>
         <td align="center">
-            <img src="Pictures/Front_view_crop.jpg" alt="Front view" height="300">
+            <img src="Pictures/Front_view_crop.jpg" alt="Front view" height="320">
         </td>
         <td align="center">
-            <img src="Pictures/Rear_view_crop.jpg" alt="Rear view" height="300">
+            <img src="Pictures/Rear_view_crop.jpg" alt="Rear view" height="320">
         </td>
     </tr>
 </table>
