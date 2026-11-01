@@ -2,8 +2,16 @@
 
 This project uses the Lego Mars Mission 7645 MT-61 Crystal Reaper Lego set as a basis to build a bluetooth controlled robot. It uses two Lego power functions DC motors and a battery pack to be able to drive. An Arduino Mega is used to connect everything together and to program it via the Arduino IDE. Read on to learn how you can make one yourself!
 
-<img src="Pictures/Box_art.png" alt="Lego box art" height="250">
-<img src="Pictures/Lego_box.jpg" alt="Lego box art" height="250">
+<table>
+    <tr>
+        <td align="center">
+            <img src="Pictures/Box_art.png" alt="Lego box art" height="250">
+        </td>
+        <td align="center">
+            <img src="Pictures/Lego_box.jpg" alt="Lego box cover" height="250">
+        </td>
+    </tr>
+</table>
 
 ## Used parts
 
@@ -33,8 +41,16 @@ For the assembly I have two tips. First, if you don't want to drill in lego bric
 
 Below are two pictures of my finished prototype. As you can see it has quite a wild haircut with all the wiring sticking out. I removed the entire top section of the lego set to make room for all the electronic components.
 
-<img src="Pictures/Front_view_crop.jpg" alt="Lego box art" height="270">
-<img src="Pictures/Rear_view_crop.jpg" alt="Lego box art" height="270">
+<table>
+    <tr>
+        <td align="center">
+            <img src="Pictures/Front_view_crop.jpg" alt="Front view" height="250">
+        </td>
+        <td align="center">
+            <img src="Pictures/Rear_view_crop.jpg" alt="Rear view" height="250">
+        </td>
+    </tr>
+</table>
 
 As you can see the two ultrasonic sensors are placed on the front and rear for obstacle detection. In this way you can think of an algorithm for the robot to drive a certain route without hitting anything in your living room :) Of course just those two sensors are quite limited for a more advanced navigation algorithm, but they are really cheap, easy to use and they are quite accurate with their distance calculation, so you can do some fun stuff with them. More sensors can always be added later.
 
