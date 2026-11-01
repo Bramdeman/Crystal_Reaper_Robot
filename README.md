@@ -5,10 +5,10 @@ This project uses the Lego Mars Mission 7645 MT-61 Crystal Reaper Lego set as a 
 <table>
     <tr>
         <td align="center">
-            <img src="Pictures/Box_art.png" alt="Lego box art" height="250">
+            <img src="Pictures/Box_art.png" alt="Lego box art" height="300">
         </td>
         <td align="center">
-            <img src="Pictures/Lego_box.jpg" alt="Lego box cover" height="250">
+            <img src="Pictures/Lego_box.jpg" alt="Lego box cover" height="300">
         </td>
     </tr>
 </table>
@@ -44,10 +44,10 @@ Below are two pictures of my finished prototype. As you can see it has quite a w
 <table>
     <tr>
         <td align="center">
-            <img src="Pictures/Front_view_crop.jpg" alt="Front view" height="250">
+            <img src="Pictures/Front_view_crop.jpg" alt="Front view" height="300">
         </td>
         <td align="center">
-            <img src="Pictures/Rear_view_crop.jpg" alt="Rear view" height="250">
+            <img src="Pictures/Rear_view_crop.jpg" alt="Rear view" height="300">
         </td>
     </tr>
 </table>
